@@ -195,7 +195,7 @@ Tool được tạo ra nhằm mục đích **bảo vệ mã nguồn hợp pháp*
 ---
 
 Code Before
-```
+```javascript
 function greetUser(name) {
   const message = "Hello, " + name + "!";
   console.log(message);
@@ -206,7 +206,7 @@ greetUser("World");
 ```
 
 Code After
-```
+```javascript
 
   var __INFO__ = {
     'Obfuscator': 'KTN',
