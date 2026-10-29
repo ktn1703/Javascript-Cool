@@ -210,8 +210,8 @@ Code After
 
   var __INFO__ = {
     'Obfuscator': 'KTN',
-    'Obfuscator Owner': 'Trương Nhật Bảo Nam - ktn',
-    'Contact': 'https://github.com/Swp-dev/Javascript-Cool/'
+    'Obfuscator Owner': 'ktn',
+    'Contact': 'https://github.com/ktn1703/Javascript-Cool/'
   };
   /** Generated: 2026-05-16T05:28:03.333Z | https://tanstack-start-app.kingktn.workers.dev/ */
   
