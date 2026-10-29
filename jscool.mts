@@ -1078,10 +1078,10 @@ async function obfuscate(sourceCode: string, options: { addAntiHook: boolean; ad
   const iifeName = randomIdent(8);
   const watermark = `var __INFO__ = {
     'Obfuscator': 'KTN',
-    'Obfuscator Owner': 'Trương Nhật Bảo Nam - ktn',
-    'Contact': 'https://github.com/Swp-dev/Javascript-Cool/'
+    'Obfuscator Owner': 'ktn',
+    'Contact': 'https://github.com/ktn1703/Javascript-Cool/'
   };
-  /** Generated: ${new Date().toISOString()} | https://tanstack-start-app.kingktn.workers.dev/ */
+  /** Generated: ${new Date().toISOString()} */
   `;
 
   const iifePart = `;(async function ${iifeName}(){
